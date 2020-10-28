@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://crazylilosama.me/uses</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/get-to-know-firebase</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/reality</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/Understanding-Colors</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/9-projects-you-can-do-to-become-a-frontend-Master</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/markdown-playground</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/tags/my-stack/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/tags/testing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/tags/uses/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/tags/angular/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/tags/database/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/tags/deepdive-🤿/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/tags/firebase/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/tags/javascript/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/tags/react/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/tags/talk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/tags/vue/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/tags/web-development/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/archive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://crazylilosama.me/pensieve/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
