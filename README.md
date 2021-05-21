@@ -21,7 +21,3 @@
 <a href="https://fb.com/mishra.yashraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mishra.yashraj" height="30" width="40" /></a>
 <a href="https://instagram.com/mishra.yashrajs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mishra.yashrajs" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashrajmishra&show_icons=true&theme=dark&title_color=0b5fff&text_color=ccd6f6&bg_color=141521&locale=en&layout=compact" alt="yashrajmishra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashrajmishra&show_icons=true&theme=dark&title_color=0b5fff&text_color=ccd6f6&bg_color=141521&cache_seconds=1800&locale=en" alt="yashrajmishra" /></p>
